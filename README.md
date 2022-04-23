@@ -52,4 +52,4 @@ Most, if not, all of the colours used came directly from the [official Dracula t
 
 ## Credits
 None of this would be possible besides the colourscheme creators themselves:</br>
-@dracula
+[@dracula](https://github.com/dracula)
