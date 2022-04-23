@@ -6,12 +6,7 @@ Most, if not, all of the colours used, came directly from the official dracula t
 https://draculatheme.com/
 
 ## Ricing Shebang ⭐
-OS: KALI</br>
-WM: BSPWM</br>
-SHELL: ZSH</br>
-TERMINAL: KITTY</br> 
-EDITOR: NEOVIM</br>
-LAUNCHER: ROFI</br>
+>Normally, I'd use alacritty, but it was completely broken on this system and I was too lazy to fix it so, you can easily swap out kitty w/ alacritty.
 
 ```
 ..............                                     root@blackbird
@@ -36,7 +31,12 @@ LAUNCHER: ROFI</br>
                                             .'
                                              .
 ```
->Normally, I'd use alacritty, but it was completely broken on this system and I was too lazy to fix it so, you can easily swap out kitty w/ alacritty.
+OS: KALI</br>
+WM: BSPWM</br>
+SHELL: ZSH</br>
+TERMINAL: KITTY</br> 
+EDITOR: NEOVIM</br>
+LAUNCHER: ROFI</br>
 
 ## Here it is!
 ![alt text](/screenshots/bare.png)
