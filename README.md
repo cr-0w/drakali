@@ -31,7 +31,6 @@ Most, if not, all of the colours used came directly from the [official Dracula t
                                             .'
                                              .
 ```
-<details>
   ## Setup 🖥️ 
      * OS: KALI
      * WM: BSPWM
@@ -39,7 +38,6 @@ Most, if not, all of the colours used came directly from the [official Dracula t
      * TERMINAL: KITTY
      * LAUNCHER: ROFI
      * EDITOR: NEOVIM
-</details>
 
 ## Here it is! 
 ![alt text](/screenshots/bare.png)
