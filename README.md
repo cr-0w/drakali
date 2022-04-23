@@ -1,5 +1,6 @@
 ## Drakali 🧛🐲
-This is my final rice, probably for a while. Now, obviously, "omg 1337 hacker OS!!!" This is a stupid project and I should be publicly humiliated for ricing an OS like Kali but at least now I can die peacefully knowing that I've done something so profoundly useless. It's also virtualized so don't worry about me running an insecure OS on bare-metal.
+This is my final rice, probably for a while. Now, obviously, "omg 1337 hacker OS!!!"</br> 
+This is a stupid project and besides the wonderful nature of BSPWM and how well it works with penetration testing-based multi-tasking, this project serves no other purpose besides making Kali look better. I should be publicly humiliated for ricing an OS like Kali but at least now I can die peacefully knowing that I've done something so profoundly and utterly useless. It's also virtualized so don't worry about me running an insecure OS on bare-metal.
 
 Most, if not, all of the colours used came directly from the official Dracula theme [website](https://draculatheme.com/).
 
