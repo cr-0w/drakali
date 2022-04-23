@@ -43,7 +43,7 @@ Most, if not, all of the colours used came directly from the [official Dracula t
      * EDITOR: NEOVIM
 </details>
 
-## Here it is! 🦇
+## Here it is! 
 ![alt text](/screenshots/bare.png)
 ![alt text](/screenshots/rofi.png)
 ![alt text](/screenshots/ad.png)
