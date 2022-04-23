@@ -1,6 +1,6 @@
 ## Drakali 🧛🐲
 This is my final rice, probably for a while. Now, obviously, "_omg 1337 hacker OS!!!_"
-This is a stupid project and besides the wonderful nature of BSPWM and how well it works with penetration testing-based multi-tasking, this project serves no other purpose besides making Kali look better. I should be publicly humiliated for ricing an OS like Kali but at least now I can die peacefully knowing that I've done something so profoundly and utterly useless. It's also virtualized so don't worry about me running an insecure OS on bare-metal.
+This is a stupid project and besides the wonderful nature of BSPWM and how well it works with penetration testing-based multi-tasking, this project serves no other purpose besides making Kali look and feel better. I should be publicly humiliated for ricing an OS like Kali but at least now I can die peacefully knowing that I've done something so profoundly and utterly useless.
 
 Most, if not, all of the colours used came directly from the [official Dracula theme website](https://draculatheme.com/). Also, suprisingly enough, compared to my other two rices, this rice doesn't have that many configs for it. It's mainly just a colourscheme extravaganza. However, should I end up including other things like Dunst, Ranger, etc. to the rice, I'll include it in the repository as well.
 
