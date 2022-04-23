@@ -1,5 +1,9 @@
-## drakali 🧛
-This is my final rice, probably for a while. Now, obviously, omg hacker 1337 os!!! This is a stupid project and I should be publicly humilated for ricing Kali but if there's a chance I can customize something, I'm gonna try it. It's also virtualized so don't worry about me running an insecure OS on bare-metal. 
+## Drakali 🧛
+This is my final rice, probably for a while. Now, obviously, "omg hacker 1337 OS!!!" 
+This is a stupid project and I should be publicly humilated for ricing an OS like Kali but at least now I can die peacefully knowing that I've done something literally so profoundly useless. It's also virtualized so don't worry about me running an insecure OS on bare-metal. 
+
+## Ricing Shebang
+*OS: Kali*
 
 ## Here it is!
 ![alt text](/screenshots/bare.png)
