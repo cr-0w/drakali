@@ -42,6 +42,18 @@ Most, if not, all of the colours used came directly from the [official dracula t
             - LAUNCHER: ROFI</br>
 </details>
 
+
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. 
+     * OS: KALI
+     * WM: BSPWM
+     * 
+            
+</details>
+
 ## Here it is!
 ![alt text](/screenshots/bare.png)
 ![alt text](/screenshots/rofi.png)
