@@ -5,7 +5,7 @@ This is a stupid project and I should be publicly humilated for ricing an OS lik
 Most, if not, all of the colours used, came directly from the official dracula theme website:
 https://draculatheme.com/
 
-## Ricing Shebang ⭐
+# Ricing Shebang ⭐
 *OS: KALI*</br>
 *WM: BSPWM*</br>
 *SHELL: ZSH*</br>
@@ -38,7 +38,7 @@ https://draculatheme.com/
 ```
 >Normally, I'd use alacritty, but it was completely broken on this system and I was too lazy to fix it so, you can easily swap out kitty w/ alacritty.
 
-## Here it is!
+# Here it is!
 ![alt text](/screenshots/bare.png)
 ![alt text](/screenshots/rofi.png)
 ![alt text](/screenshots/ad.png)
