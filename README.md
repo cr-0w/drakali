@@ -5,7 +5,7 @@ This is a stupid project and I should be publicly humilated for ricing an OS lik
 Most, if not, all of the colours used, came directly from the official dracula theme website:
 https://draculatheme.com/
 
-## Ricing #!
+## #! /usr/bin/env ricing
 *OS: KALI*</br>
 *WM: BSPWM*</br>
 *SHELL: ZSH*</br>
