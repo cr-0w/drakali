@@ -32,8 +32,6 @@ Most, if not, all of the colours used came directly from the [official Dracula t
                                              .
 ```
 <details>
-  <summary>Click!</summary>
-  
   ## Setup 🖥️ 
      * OS: KALI
      * WM: BSPWM
