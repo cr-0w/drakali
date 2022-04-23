@@ -38,6 +38,10 @@ https://draculatheme.com/
 ```
 >Normally, I'd use alacritty, but it was completely broken on this system and I was too lazy to fix it so, you can easily swap out kitty w/ alacritty.</br>
 
+Finally, since this is all about 1337 hacking, feel free to add me on HackTheBox or TryHackMe:</br>
+https://tryhackme.com/p/PrinceOfCrows
+https://app.hackthebox.com/users/646319
+
 ## Here it is!
 ![alt text](/screenshots/bare.png)
 ![alt text](/screenshots/rofi.png)
