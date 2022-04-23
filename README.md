@@ -37,6 +37,7 @@ Most, if not, all of the colours used came directly from the [official Dracula t
      * SHELL: ZSH
      * TERMINAL: KITTY
      * LAUNCHER: ROFI
+     * BAR: POLYBAR
      * EDITOR: NEOVIM
 
 ## Here it is! 
