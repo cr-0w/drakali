@@ -7,7 +7,7 @@ https://draculatheme.com/
 
 ## Ricing Shebang
 *OS: Kali*
-
+---
 ```
 ..............                                     root@blackbird
             ..,;:ccc,.                             --------------
