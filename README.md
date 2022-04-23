@@ -1,2 +1,2 @@
-# dracukali
+# drakali
 dotfiles 
