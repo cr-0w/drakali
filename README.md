@@ -8,10 +8,10 @@ https://draculatheme.com/
 ## Ricing Shebang
 *OS: KALI*</br>
 *WM: BSPWM*</br>
-*SHELL: ZSH*
-*TERMINAL: KITTY (Normally, I'd use alacritty, but it was completely broken on this system and I was too lazy to fix it so, you can easily swap out kitty w/ alacritty)*
-*EDITOR: NEOVIM*
-*LAUNCHER: ROFI*
+*SHELL: ZSH*</br>
+*TERMINAL: KITTY (Normally, I'd use alacritty, but it was completely broken on this system and I was too lazy to fix it so, you can easily swap out kitty w/ alacritty)*</br>
+*EDITOR: NEOVIM*</br>
+*LAUNCHER: ROFI*</br>
 
 ```
 ..............                                     root@blackbird
