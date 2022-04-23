@@ -47,6 +47,6 @@ Most, if not, all of the colours used came directly from the [official Dracula t
 ![alt text](/screenshots/irc.png)
 ![alt text](/screenshots/neofetch.png)
 
-## Credits
+## Credits 💖
 None of this would be possible besides the colourscheme maintainers/creators themselves:</br>
 @[dracula](https://github.com/dracula)
