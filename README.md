@@ -37,6 +37,7 @@ https://draculatheme.com/
                                             .'
                                              .
 ```
+>! Spoiler text
 
 ## Here it is!
 ![alt text](/screenshots/bare.png)
