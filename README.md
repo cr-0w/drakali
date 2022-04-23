@@ -32,13 +32,14 @@ Most, if not, all of the colours used came directly from the [official dracula t
                                              .
 ```
 <details>
-  <summary>Setup</summary>
-             OS: KALI</br>
-             WM: BSPWM</br>
-             SHELL: ZSH</br>
-             TERMINAL: KITTY</br> 
-             EDITOR: NEOVIM</br>
-             LAUNCHER: ROFI</br>
+  <summary>Click here!</summary>
+            ## Setup
+            - OS: KALI</br>
+            - WM: BSPWM</br>
+            - SHELL: ZSH</br>
+            - TERMINAL: KITTY</br> 
+            - EDITOR: NEOVIM</br>
+            - LAUNCHER: ROFI</br>
 </details>
 
 ## Here it is!
