@@ -3,3 +3,8 @@ This is my final rice, probably for a while. Now, obviously, omg hacker 1337 os!
 
 ## Here it is!
 ![alt text](/screenshots/bare.png)
+![alt text](/screenshots/rofi.png)
+![alt text](/screenshots/ad.png)
+![alt text](/screenshots/binexp.png)
+![alt text](/screenshots/irc.png)
+![alt text](/screenshots/neofetch.png)
