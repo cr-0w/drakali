@@ -10,7 +10,6 @@ https://draculatheme.com/
 *WM: BSPWM*</br>
 *SHELL: ZSH*</br>
 *TERMINAL: KITTY*</br> 
->!Normally, I'd use alacritty, but it was completely broken on this system and I was too lazy to fix it so, you can easily swap out kitty w/ alacritty)</br>
 *EDITOR: NEOVIM*</br>
 *LAUNCHER: ROFI*</br>
 
@@ -37,7 +36,7 @@ https://draculatheme.com/
                                             .'
                                              .
 ```
->! Spoiler text
+>! Normally, I'd use alacritty, but it was completely broken on this system and I was too lazy to fix it so, you can easily swap out kitty w/ alacritty.</br>
 
 ## Here it is!
 ![alt text](/screenshots/bare.png)
