@@ -8,6 +8,30 @@ https://draculatheme.com/
 ## Ricing Shebang
 *OS: Kali*
 
+```bash
+..............                                     root@blackbird
+            ..,;:ccc,.                             --------------
+          ......''';lxO.                           OS: Kali GNU/Linux Rolling x86_64
+.....''''..........,:ld;                           Host: VMware Virtual Platform None
+           .';;;:::;,,.x,                          Kernel: 5.16.0-kali7-amd64
+      ..'''.            0Xxoc:,.  ...              Uptime: 11 mins
+  ....                ,ONkc;,;cokOdc',.            Packages: 3329 (dpkg), 8 (snap)
+ .                   OMo           ':ddo.          Shell: zsh 5.8.1
+                    dMc               :OO;         Resolution: 1920x1080
+                    0M.                 .:o.       WM: bspwm
+                    ;Wd                            Theme: Kali-Dark [GTK2/3]
+                     ;XO,                          Icons: Flat-Remix-Blue-Dark [GTK2/3]
+                       ,d0Odlc;,..                 Terminal: kitty
+                           ..',;:cdOOd::,.         CPU: Intel i7-10700K (8) @ 3.791GHz
+                                    .:d;.':;.      GPU: 00:0f.0 VMware SVGA II Adapter
+                                       'd,  .'     Memory: 940MiB / 7920MiB
+                                         ;l   ..
+                                          .o
+                                            c
+                                            .'
+                                             .
+```
+
 ## Here it is!
 ![alt text](/screenshots/bare.png)
 ![alt text](/screenshots/rofi.png)
